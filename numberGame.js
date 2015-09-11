@@ -28,11 +28,9 @@ $(function() {
     if (player === 'player') {
       indexOfNum = remainingPlayerNums.indexOf(num);
       remainingPlayerNums.splice(indexOfNum, 1);
-      console.log('player', remainingPlayerNums);
     } else {
       indexOfNum = remainingComputerNums.indexOf(num);
       remainingComputerNums.splice(indexOfNum, 1);
-      console.log('computer', remainingComputerNums);
     }
   }
 
