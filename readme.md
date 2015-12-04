@@ -1,4 +1,4 @@
-# Challenge
+# Number Game
 
 ## Rules
 
